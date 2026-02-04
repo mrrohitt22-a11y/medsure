@@ -1,0 +1,7 @@
+{
+  "name": "MedSure - Digital Pharmacy Platform",
+  "description": "A comprehensive digital pharmacy solution featuring a patient mobile app, a pharmacist dashboard, and an administrative oversight panel. Integrated with Gemini AI for intelligent prescription analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
